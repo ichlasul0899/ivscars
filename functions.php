@@ -1,6 +1,6 @@
 <?php
     // koneksi ke database
-    $con = mysqli_connect("localhost","root","","phpdasar");
+    $con = mysqli_connect("localhost","u5364882_ichlasulamal","vfhjhbvjfbv2397df","u5364882_db_ivscars");
 
     function query($query){
         global $con;
